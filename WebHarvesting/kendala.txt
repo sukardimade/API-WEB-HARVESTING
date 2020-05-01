@@ -1,0 +1,3 @@
+kendala :
+untuk dari harvesting data itu sendiri kendalanya blm bisa mengambil data web secara keseluruhan.
+maksudnya baru berupa judul artikel nya saja sedangkan isinya belum bisa
